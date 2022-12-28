@@ -1,0 +1,23 @@
+.contactpic {
+    display: flex;
+    position: absolute;
+    margin-top: 40px;
+    margin-bottom: 400px;
+    height: 160px;
+    width: 100%;
+    background-image: url("../../assets/Home/contactme.jfif");
+}
+
+.ContactMe {
+    color: black;
+    background-size: cover;
+    background-image: url("../../assets/Home/contactbg.png");
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .getintouch {
+        margin-left: 30px;
+    }
+
+}

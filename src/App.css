@@ -1,0 +1,7 @@
+.App h1{
+  font-family:'Poppins-SemiBold';
+}
+span, .address, .card-body{
+  font-family:cursive;
+}
+

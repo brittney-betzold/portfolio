@@ -1,0 +1,46 @@
+.aboutme {
+    display: flex;
+    float: left;
+    margin-top: 40px;
+    position: absolute;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    rotate: -10deg;
+    color: #f6f8fb;
+}
+
+.row {
+
+    display: flex;
+}
+
+.contain {
+    margin-top: 40px;
+    background-image: url('../../assets/Home/designportfolio.jpg');
+    background-size: cover;
+}
+
+.box {
+    opacity: 6;
+    color: #f6f8fb;
+    z-index: 2;
+}
+
+@media screen and (max-width:1500px) {
+    .aboutme {
+        rotate: 0deg;
+        display: flex;
+        margin-top: -100px;
+        color: black;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .box {
+        flex-direction: row;
+        justify-content: space-between
+    }
+
+}
