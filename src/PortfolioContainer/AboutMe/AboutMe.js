@@ -47,10 +47,10 @@ export default function AboutMe() {
 
                     <div className="box  col-lg-4">
                         <Card title="Work Skills "
-                            body="Highly trainable, solutions orientated, able to quickly adapt and flexuate within different programs being used, 
-                              self-motivated learner, naturally curious, thrives in a team setting, really strong commmunication and collaboration
-                              skills, interested in finding technical solutions when solving and storing high speed information fosters positive work
-                              enviroment, competent in leardership and management positions"
+                            body="Highly trainable, solutions orientated, able to quickly adapt and fluctuate within different programs being used, 
+                              self-motivated learner, naturally curious, thrives in a team setting, strong commmunication and collaboration
+                              skills, interested in finding technical solutions when solving and storing high speed information, fosters positive work
+                              enviroment, competent in leadership and management positions"
                         />
                     </div>
                 </div>
