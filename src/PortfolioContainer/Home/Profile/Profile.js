@@ -10,7 +10,7 @@ export default function Profile() {
         <div className="profile-details">
           <div className="profile-details-name">
             <span className="primary-text">
-              Hello, Im <span className="highlighted-text">Brittney</span>
+              Hello, I'm <span className="highlighted-text">Brittney</span>
             </span>
           </div>
           <div className="profile-details-role">
@@ -29,7 +29,7 @@ export default function Profile() {
               <button className="btn primary-btn">Hire Me</button>
             </a>
             <a
-              href="B.Betzold Resume.pdf"
+              href="B.BetzoldResume.pdf"
               download="Brittney Betzold B.Betzold Resume.pdf"
             >
               <button className="btn highlighted-btn">Get Resume</button>

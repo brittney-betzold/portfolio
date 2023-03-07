@@ -9,10 +9,11 @@
     justify-content: space-between;
     rotate: -10deg;
     color: #f6f8fb;
+
 }
 
-.row {
 
+.row {
     display: flex;
 }
 
@@ -24,8 +25,8 @@
 
 .box {
     opacity: 6;
-    color: #f6f8fb;
-    z-index: 2;
+    color: #e2e6ec;
+    
 }
 
 @media screen and (max-width:1500px) {
